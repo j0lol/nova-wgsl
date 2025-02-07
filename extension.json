@@ -1,0 +1,9 @@
+{
+    "identifier": "lol.j0.wgsl",
+    "name": "wgsl",
+    "organization": "j0lol",
+    "description": "Lorem ipsum, dolor sit amet.",
+    "activationEvents": ["onLanguage:wgsl", "onWorkspaceContains:*.wgsl"],
+    "version": "1.0",
+    "categories": ["languages"]
+}
